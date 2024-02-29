@@ -2,3 +2,4 @@
 
 - Basic commands
 - Matrix Eigendecomposition
+- Tensor Product
